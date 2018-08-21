@@ -16,9 +16,8 @@ programming magazine, an art gallery retrospective, and a few back issues of
 a compendium of loosely related standalone chapters with a vaguely
 free-jazz hint of an organizational structure.
 
-For a book published in 1992, and clearly aimed at advanced high school or
-early college students, I found it surprisingly readable and entertaining
-as an experienced programmer in 2018.
+For a book published in 1992, I found it to be surprisingly readable and
+entertaining when going through it in 2018.
 
 The 1992 publication date, and its vaguely technological-ish subject focus,
 means that (as of the time I'm writing this) used copies sell for the prices
