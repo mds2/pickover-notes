@@ -6,11 +6,6 @@ Clifford Pickover's "Mazes for the mind"
 
 They are organized by chapter.
 
-As these started out as my scratch work for my own amusement while reading,
-not all of them are thoroughly explained.  I hope that some sense can be
-made out of them by readers who look them up while reading the corresponding
-chapters in the original work.
-
 The book for which these are notes is an eclectic mix of
 recreational mathematics, hobby programming puzzles, profiles
 of artists, cultural asides, and weird curiosities.
@@ -48,4 +43,9 @@ solutions to puzzles discussed in Chapter 73 ("The Terrible Twos Problem")
 agreed with me on this (hindsight) language choice and solved the problems
 in that chapter in some lisp dialect (presumably, although not necessarily,
 common lisp).  RIP Dan Hoey.
+
+As these started out as my scratch work for my own amusement while reading,
+not all of them are thoroughly explained.  I hope that some sense can be
+made out of them by readers who look them up while reading the corresponding
+chapters in the original work.
 
